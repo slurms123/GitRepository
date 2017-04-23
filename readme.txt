@@ -1,0 +1,1 @@
+This is part of the commit to Git project (git-it)
